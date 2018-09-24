@@ -12,6 +12,7 @@
   "platforms": {
     "ios": "9.0"
   },
+  "swift_version": "4.0",
   "source": {
     "git": "https://github.com/miasma13/Closures.git",
     "branch": "master"
